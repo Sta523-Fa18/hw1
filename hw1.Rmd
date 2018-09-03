@@ -12,20 +12,14 @@ and your writeup matter for your overall grade.
 -->
 
 ```{r}
-fizzbuzz = function(v)
-{
+fizzbuzz = function(v) {
 
 }
 ```
 
-### Task 2 - Validation
+### Task 2 - Validation & Testing
 
-<!--
-Use this section to show the output of your 
-fizzbuzz function for various inputs
-
-No writeup is necessary for this section.
--->
+#### Good Inputs
 
 ```{r}
 fizzbuzz(1)
@@ -35,7 +29,12 @@ fizzbuzz(15)
 
 fizzbuzz(9:15)
 fizzbuzz(15:9)
+```
 
+
+#### Bad Inputs
+
+```{r error=TRUE}
 fizzbuzz(-1)
 fizzbuzz(-3)
 fizzbuzz(-5)
