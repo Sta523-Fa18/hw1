@@ -14,7 +14,7 @@ The FizzBuzz test is a common programming interview question used to establish i
 
 The problem statement is as follows:
 
-> "Write a program that given a list of numbers as input, prints each number on their own line. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz"."
+> "Write a program that given a list of numbers as input, prints each number on their own line. But for multiples of three prints "Fizz" instead of the number and for the multiples of five prints "Buzz". For numbers which are multiples of both three and five prints "FizzBuzz"."
 
 <br/>
 
@@ -30,7 +30,7 @@ This is not a terribly complex or difficult task, and solutions in R and many ot
 
 ## Task 2 - FizzBuzz validation
 
-Use your FizzBuzz function to display the correct output for a variety of inputs, make sure to show what happens for both good and bad input. Some sample test cases have been provided in the template, feel free to add any additional test cases you think are interesting / useful.
+Use your FizzBuzz function to display the correct output for a variety of inputs, make sure to show what happens for both good and bad input. Some sample test cases have been provided in the template, feel free to add additional test cases you think are interesting / useful.
 
 <br/><br/>
 
