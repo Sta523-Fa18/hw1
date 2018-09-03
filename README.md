@@ -6,9 +6,7 @@ Due by 1 pm on Monday 9/10/2017.
 
 <br/>
 
-<div style="text-align:center">
-![](imgs/fizzbuzz.jpg)
-</div>
+![](https://www2.stat.duke.edu/~cr173/Sta523_Fa18/homework/imgs/fizzbuzz.jpg)
 
 ## Background
 
