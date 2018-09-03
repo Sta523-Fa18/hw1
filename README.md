@@ -1,7 +1,7 @@
 Sta 523 - Homework 1
 -------------
 
-Due by 1 pm on Monday 9/10/2017.
+Due by 1 pm on Monday 9/10/2018.
 
 
 <br/>
